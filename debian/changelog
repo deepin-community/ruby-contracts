@@ -1,0 +1,34 @@
+ruby-contracts (0.16.0-1) unstable; urgency=medium
+
+  * New upstream version 0.16.0
+  * d/compat: Bump compat. version to 10
+  * d/copyright: Update my Debian email and copyright years
+  * d/control:
+    + Use my Debian email address
+    + Bump Standard-Version to 4.1.0 (no changes needed)
+
+ -- Sebastien Badia <sbadia@debian.org>  Wed, 23 Aug 2017 18:39:39 +0200
+
+ruby-contracts (0.14.0-1) unstable; urgency=medium
+
+  * Team upload
+  * Imported Upstream version 0.14.0
+  * Bump Standards-Version to 3.9.9 (no changes needed)
+
+ -- Cédric Boutillier <boutil@debian.org>  Sun, 26 Jun 2016 22:29:16 +0200
+
+ruby-contracts (0.13.0-1) unstable; urgency=medium
+
+  * Imported Upstream version 0.13.0
+  * d/rules: Enable dependency checks during the build
+  * d/control:
+      Bump Standards-Version to 3.9.7 (no changes)
+      Update Vcs-* fields (use https everywhere)
+
+ -- Sebastien Badia <seb@sebian.fr>  Fri, 04 Mar 2016 09:18:39 -0300
+
+ruby-contracts (0.11.0-1) unstable; urgency=medium
+
+  * Initial release (Closes: #796228)
+
+ -- Sebastien Badia <seb@sebian.fr>  Thu, 20 Aug 2015 15:43:32 +0200
